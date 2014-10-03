@@ -1,1 +1,3 @@
-Trabajo en equipo con git
+¿Cual es la diferencia entre compilacion e interpretacion?
+La compilación es el proceso de traducir un programa en código fuente a programa
+en código objeto (que usa el lenguaje binario), el programa encargado de compilar se llama compilador.
