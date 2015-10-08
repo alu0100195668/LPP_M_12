@@ -2,5 +2,5 @@
 
 Practica de laboratorio  #2
 
-* Coordinador: Marcos Melian Rodriguez
+* Coordinador: Marcos Melian Rodriguez (curso pasado)
 * Miembro: Julian Villar Vazquez
